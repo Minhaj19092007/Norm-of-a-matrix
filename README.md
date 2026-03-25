@@ -11,8 +11,8 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 	
 ## Program:
 ```Python
-# Register No: 212224230207
-# Developed By: PRAVEEN RAJ R
+# Register No: 212225230171
+# Developed By: MINHAJ AHAMED J
 # 1-Norm of a Matrix
 import os
 os.environ["OPENBLAS_NUM_THREADS"] = "1"
